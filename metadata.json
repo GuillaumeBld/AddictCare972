@@ -1,0 +1,8 @@
+{
+  "name": "AddictCare Protocol",
+  "description": "Plateforme de thérapie structurée pour l'addictologie (Thérapeute & Patient)",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
